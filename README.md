@@ -80,4 +80,4 @@ HuatuoGPT2_sft_instruct_GPT4_sharegpt.jsonl
 ### Contributions
 
 - 原始数据来源：[shibing624](https://github.com/shibing624) 
-- 由 三明学院人工智能与信息融合应用创新研究中心 重新整合并转换为 [MedicalGPT](https://github.com/shibing624/MedicalGPT) 支持格式
+- 由 [Jinrui Zhang](https://github.com/Ruiruiz30) 重新整合并转换为 [MedicalGPT](https://github.com/shibing624/MedicalGPT) 支持格式
