@@ -1,14 +1,12 @@
 ---
-license: apache-2.0
+license: BSD3
 language:
-- en
+- en and zh-cn
 tags:
 - text-generation
 pretty_name: medical
 task_categories:
 - text-generation
-size_categories:
-- n<1K
 ---
 
 # Dataset for medical
